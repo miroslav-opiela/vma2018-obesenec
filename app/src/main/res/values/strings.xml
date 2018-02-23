@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Obesenec</string>
+    <string name="guess_a_letter">Guess a Letter!</string>
+    <string name="gallows">gallows</string>
+</resources>
