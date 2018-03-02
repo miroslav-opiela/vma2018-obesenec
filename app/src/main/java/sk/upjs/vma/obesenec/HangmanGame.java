@@ -1,10 +1,11 @@
 package sk.upjs.vma.obesenec;
 
+import java.io.Serializable;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
-public class HangmanGame {
+public class HangmanGame implements Serializable {
     public static final int DEFAULT_ATTEMPTS_LEFT = 6;
 
     private static final char UNGUESSED_CHAR = '_';

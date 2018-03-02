@@ -32,6 +32,7 @@
         android:typeface="monospace"
         android:textAppearance="?android:textAppearanceLarge"
         android:letterSpacing="0.5"
+        android:textAllCaps="true"
 
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
@@ -48,6 +49,7 @@
         android:inputType="textCapCharacters"
         android:maxLength="1"
         android:typeface="monospace"
+        android:gravity="center"
 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
